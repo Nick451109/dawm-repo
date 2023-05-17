@@ -13,7 +13,7 @@
 <tr>
  <th>Proyecto 1</th>
  <td>
-  <a href="[/proyecto01](https://github.com/Nick451109/dawm-repo/tree/main/proyecto01)">Ir a la raíz del proyecto 01</a>
+  <a href="https://github.com/Nick451109/dawm-repo/tree/main/proyecto01" target="_blank" >Ir a la raíz del proyecto 01</a>
  </td>
  <td>Portafolio de presentación</td>
 </tr>
@@ -21,7 +21,7 @@
 <tr>
  <th>Proyecto 2</th>
  <td>
-  <a href="/proyecto02/">Ir a la raíz del proyecto 02</a>
+  <a href="https://github.com/Nick451109/dawm-repo/tree/main/proyecto02">Ir a la raíz del proyecto 02</a>
   <td>Coming soon</td>
  </td>
 </tr>
@@ -29,7 +29,7 @@
 <tr>
  <th>Proyecto 3</th>
  <td>
-  <a href="/proyecto03/">Ir a la raíz del proyecto 03</a>
+  <a href="https://github.com/Nick451109/dawm-repo/tree/main/proyecto03">Ir a la raíz del proyecto 03</a>
   <td>Coming soon</td>
  </td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
  <th>Proyecto 4</th>
  <td>
-  <a href="/proyecto04/">Ir a la raíz del proyecto 04</a>
+  <a href="https://github.com/Nick451109/dawm-repo/tree/main/proyecto04">Ir a la raíz del proyecto 04</a>
   <td>Coming soon</td>
  </td>
 </tr>
